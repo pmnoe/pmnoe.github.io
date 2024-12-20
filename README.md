@@ -1,11 +1,8 @@
-
-# Electrical Engineering @ Stanford
-
-#### currently reading about: mathematical optimization, statistics, control
+#### Currently exploring: mathematical optimization, statistics, control
 
 ## Education		
-- M.S., Electrical Engineering | Stanford University (_exp. June 2026_)	 			        		
-- B.S., Electrical Engineering | Stanford University (_exp. April 2025_) 
+- M.S. Electrical Engineering | Stanford University (_exp. June 2026_)	 			        		
+- B.S. Electrical Engineering | Stanford University (_exp. April 2025_) 
 
 ## Experience
 
@@ -17,20 +14,20 @@
 - Advised by Bennet Meyers and Stephen Boyd.
 
 **Undergraduate Researcher @ Harvard Univeristy (_June 2024 - Sep. 2024_)**
-- Fast PDE solver for photonic inverse design.
+- Fast non-linear PDE solver for photonic inverse design.
 - Advised by Kiyoul Yang.
 
 **Undergraduate Researcher @ Stanford Univeristy (_Mar. 2022 - Sep. 2024_)**
-- Photonics with quantum paraelectric materials. 
+- Microwave photonics with quantum paraelectric materials. 
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
 ## Projects
-### Optimal Shipping Schedules for Collaborating Blood Banks (CS 229, Fall 2024)
+### Optimal Shipping Schedules for Collaborating Blood Banks (CS 229)
 - Data-driven forecasting of blood supply and demand at blood banks.
-- Set shipping schedules between blood banks via graph representation and convex optimization.
+- Design shipping schedules between blood banks via convex optimization.
 
-### Multi-Forecast Model Predictive Control of Home Energy Network (EE 364b, Spring 2024)
-- Control of home energy network using robust augmentation to model predictive control. 
+### Multi-Forecast Model Predictive Control of Home Energy Network (EE 364b)
+- Control home energy network via robust formulation of model predictive control. 
 - Simple forecasting of load and solar power generation from data.
 
 ## Additional
