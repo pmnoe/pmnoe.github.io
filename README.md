@@ -1,7 +1,7 @@
 
 # Electrical Engineering @ Stanford
 
-#### summarized descriptions: contact me for detailed resume
+#### summarized desriptions. contact me for details and/or resume
 
 ## Education		
 currently reading about: mathematical optimization, statistics, control
