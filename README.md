@@ -1,18 +1,16 @@
 
 # Electrical Engineering @ Stanford
 
-#### summarized desriptions. contact me for details and/or resume
+#### currently reading about: mathematical optimization, statistics, control
 
 ## Education		
-currently reading about: mathematical optimization, statistics, control
-- M.S., Electrical Engineering | Stanford University (_exp. june 2026_)	 			        		
-- B.S., Electrical Engineering | Stanford University (_exp. april 2025_) 
-
+- M.S., Electrical Engineering | Stanford University (_exp. June 2026_)	 			        		
+- B.S., Electrical Engineering | Stanford University (_exp. April 2025_) 
 
 ## Experience
 
 **Solar Engineering Intern @ Tesla (_Apr. 2025 - Sep. 2026_)**
-- Coming soon
+- Starting soon...
 
 **Undergraduate Researcher @ Stanford University (_Sep. 2024 - Present_)**
 - Data-driven forecasting of fleet scale solar power generation.
@@ -27,12 +25,12 @@ currently reading about: mathematical optimization, statistics, control
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
 ## Projects
-### Optimal Shipping Schedules for Collaborating Blood Banks
-- Forecast supply and demand of blood at blood banks from data.
-- Determine optimal shipping schedules between blood banks via graph representation and convex optimization.
+### Optimal Shipping Schedules for Collaborating Blood Banks (CS 229, Fall 2024)
+- Data-driven forecasting of blood supply and demand at blood banks.
+- Set shipping schedules between blood banks via graph representation and convex optimization.
 
-### Multi-Forecast Model Predictive Control of Home Energy Network
-- Control of home energy network using robust formulation of model predictive control. 
+### Multi-Forecast Model Predictive Control of Home Energy Network (EE 364b, Spring 2024)
+- Control of home energy network using robust augmentation to model predictive control. 
 - Simple forecasting of load and solar power generation from data.
 
 ## Additional
