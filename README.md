@@ -6,11 +6,11 @@
 ## Education							       		
 - M.S., Electrical Engineering | Stanford University (_exp. june 2026_)	 			        		
 - B.S., Electrical Engineering | Stanford University (_exp. april 2025_) 
-##### currently reading about: mathematical optimization, statistics, control
+currently reading about: mathematical optimization, statistics, control
 
 ## Experience
 
-**Solar Engineering Intern @ Tesla (_April 2025 - Sep. 2026_)**
+**Solar Engineering Intern @ Tesla (_Apr. 2025 - Sep. 2026_)**
 - Coming soon
 
 **Undergraduate Researcher @ Stanford University (_Sep. 2024 - Present_)**
@@ -21,7 +21,7 @@
 - Fast PDE solver for photonic inverse design.
 - Advised by Kiyoul Yang.
 
-**Undergraduate Researcher @ Stanford Univeristy (_March 2022 - Sep. 2024_)**
+**Undergraduate Researcher @ Stanford Univeristy (_Mar. 2022 - Sep. 2024_)**
 - Photonics with quantum paraelectric materials. 
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
