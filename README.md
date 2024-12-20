@@ -6,8 +6,8 @@
 #### summarized descriptions: contact me for detailed resume
 
 ## Education							       		
-- M.S., Electrical Engineering | Stanford University (_exp.: june 2026_)	 			        		
-- B.S., Electrical Engineering | Stanford University (_exp.: april 2025_)
+- M.S., Electrical Engineering | Stanford University (_exp. june 2026_)	 			        		
+- B.S., Electrical Engineering | Stanford University (_exp. april 2025_)
 
 ## Experience
 
