@@ -1,13 +1,12 @@
 
 # Electrical Engineering @ Stanford
 
-### reading about: mathematical optimization, statistics, control
-
 #### summarized descriptions: contact me for detailed resume
 
 ## Education							       		
 - M.S., Electrical Engineering | Stanford University (_exp. june 2026_)	 			        		
 - B.S., Electrical Engineering | Stanford University (_exp. april 2025_)
+#### currently reading about: mathematical optimization, statistics, control
 
 ## Experience
 
@@ -35,7 +34,7 @@
 - Control of home energy network using robust formulation of model predictive control. 
 - Simple forecasting of load and solar power generation from data.
 
-## Additional Experience
+## Additional
 **Stanford Society of Black Scientists and Engineers** 
 - President (2024), Vice-President (2023), Corporate Chair (2022). 
 - Awards: Junior, Sophomore, and Freshman of The Year (2024, 2023, 2022).
