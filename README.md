@@ -3,10 +3,11 @@
 
 #### summarized descriptions: contact me for detailed resume
 
-## Education							       		
+## Education		
+currently reading about: mathematical optimization, statistics, control
 - M.S., Electrical Engineering | Stanford University (_exp. june 2026_)	 			        		
 - B.S., Electrical Engineering | Stanford University (_exp. april 2025_) 
-currently reading about: mathematical optimization, statistics, control
+
 
 ## Experience
 
