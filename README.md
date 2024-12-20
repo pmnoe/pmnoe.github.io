@@ -5,7 +5,7 @@
 
 ## Education							       		
 - M.S., Electrical Engineering | Stanford University (_exp. june 2026_)	 			        		
-- B.S., Electrical Engineering | Stanford University (_exp. april 2025_)
+- B.S., Electrical Engineering | Stanford University (_exp. april 2025_) 
 ##### currently reading about: mathematical optimization, statistics, control
 
 ## Experience
