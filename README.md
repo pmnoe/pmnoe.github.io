@@ -1,13 +1,13 @@
 
 # Electrical Engineering @ Stanford
 
-### currently reading about: mathematical optimization, statistics, control
+### reading about: mathematical optimization, statistics, control
 
-###### summarized descriptions: contact me for detailed resume
+#### summarized descriptions: contact me for detailed resume
 
 ## Education							       		
-- M.S., Electrical Engineering | Stanford university (_expected: june 2026_)	 			        		
-- B.S., Electrical Engineering | Stanford university (_expected: april 2025_)
+- M.S., Electrical Engineering | Stanford University (_exp.: june 2026_)	 			        		
+- B.S., Electrical Engineering | Stanford University (_exp.: april 2025_)
 
 ## Experience
 
@@ -28,11 +28,11 @@
 
 ## Projects
 ### Optimal Shipping Schedules for Collaborating Blood Banks
-- Machine learning to forecast supply and demand of blood at blood banks from data.
+- Forecast supply and demand of blood at blood banks from data.
 - Determine optimal shipping schedules between blood banks via graph representation and convex optimization.
 
 ### Multi-Forecast Model Predictive Control of Home Energy Network
-- Control of a single-home energy network using robust formulation of model predictive control. 
+- Control of home energy network using robust formulation of model predictive control. 
 - Simple forecasting of load and solar power generation from data.
 
 ## Additional Experience
