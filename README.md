@@ -1,6 +1,8 @@
 ## Education		
 - M.S. Electrical Engineering, Stanford University (_exp. June 2026_)	 			        		
-- B.S. Electrical Engineering, Stanford University (_exp. April 2025_) 
+- B.S. Electrical Engineering, Stanford University (_exp. April 2025_)
+
+##### Summarized descriptions. Contact me for details and/or resume
 
 ## Experience
 **Undergraduate Researcher @ Stanford University (_Sep. 2024 - Present_)**
@@ -22,7 +24,7 @@
 
 ### Multi-Forecast Model Predictive Control of Home Energy Network
 - Simple forecasting of load and solar power generation from data.
-- Multi-forecast augmentation of model predictive control to manage home energy network.
+- Multi-forecast augmentation of MPC to manage home energy network.
 
 ## Additional
 **Stanford Society of Black Scientists and Engineers** 
