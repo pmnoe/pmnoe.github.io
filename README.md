@@ -1,19 +1,19 @@
-#### Summarized descriptions. Contact me for details and/or resume.
-
 # Education		
 - M.S. Electrical Engineering, Stanford University (_exp. June 2026_)	 			        		
 - B.S. Electrical Engineering, Stanford University (_exp. April 2025_)
 
+#### Summarized descriptions. Contact me for details.
+
 # Experience
-**Undergraduate Researcher @ Stanford University (_Sep. 2024 - Present_)**
+**Researcher @ Stanford University (_Sep. 2024 - Present_)**
 - Data-driven forecasting of fleet scale solar power generation.
 - Advised by Bennet Meyers and Stephen Boyd.
 
-**Undergraduate Researcher @ Harvard Univeristy (_June 2024 - Sep. 2024_)**
+**Researcher @ Harvard Univeristy (_June 2024 - Sep. 2024_)**
 - Fast non-linear PDE solver for photonic inverse design.
 - Advised by Kiyoul Yang.
 
-**Undergraduate Researcher @ Stanford Univeristy (_Mar. 2022 - Sep. 2024_)**
+**Researcher @ Stanford Univeristy (_Mar. 2022 - Sep. 2024_)**
 - Microwave photonics with quantum paraelectric materials. 
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
