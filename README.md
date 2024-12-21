@@ -3,10 +3,6 @@
 - B.S. Electrical Engineering, Stanford University (_exp. April 2025_) 
 
 ## Experience
-
-**Solar Engineering Intern @ Tesla (_Apr. 2025 - Sep. 2026_)**
-- Starting April 2025
-
 **Undergraduate Researcher @ Stanford University (_Sep. 2024 - Present_)**
 - Data-driven forecasting of fleet scale solar power generation.
 - Advised by Bennet Meyers and Stephen Boyd.
