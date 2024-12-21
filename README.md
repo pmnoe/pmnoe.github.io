@@ -1,8 +1,8 @@
 ###### Summarized descriptions. Contact me for details.
 
 ## Education		
-- M.S. Electrical Engineering, Stanford University (_exp. June 2026_)	 			        		
-- B.S. Electrical Engineering, Stanford University (_exp. April 2025_)
+- M.S. Electrical Engineering, Stanford University (_exp. Jun. 2026_)	 			        		
+- B.S. Electrical Engineering, Stanford University (_exp. Apr. 2025_)
 
 ## Experience
 **Researcher @ Stanford University (_Sep. 2024 - Present_)**
