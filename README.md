@@ -27,4 +27,4 @@
 ## Additional
 **Stanford Society of Black Scientists and Engineers** 
 - President (2024), Vice-President (2023), Corporate Chair (2022). 
-- Awards: Junior, Sophomore, and Freshman of The Year (2024, 2023, 2022).
+- Awards: Junior, Soph., and Frosh of The Year (2024, 2023, 2022).
