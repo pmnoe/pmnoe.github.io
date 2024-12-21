@@ -20,7 +20,7 @@
 ##  Projects
 #### Optimal Shipping Schedules for Collaborating Blood Banks
 - Data-driven forecasting of blood supply and demand at blood banks.
-- Determine shippments between blood banks via convex optimization.
+- Determine shipments between blood banks via convex optimization.
 
 #### Multi-Forecast Model Predictive Control of Home Energy Network
 - Simple forecasting of load and solar power generation from data.
