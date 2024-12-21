@@ -16,7 +16,7 @@
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
 ##  Projects
-**Optimal Shipping Schedules for Collaborating Blood Banks**
+[**Optimal Shipping Schedules for Collaborating Blood Banks**](files/reports/BloodFlow.pdf)
 - Data-driven forecasting of blood supply and demand at blood banks.
 - Determine shipments between blood banks via convex optimization.
 
