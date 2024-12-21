@@ -9,7 +9,7 @@
 - Data-driven forecasting of fleet scale solar power generation.
 - Advised by Bennet Meyers and Stephen Boyd.
 
-**Researcher @ Harvard Univeristy (_June 2024 - Sep. 2024_)**
+**Researcher @ Harvard Univeristy (_Jun. 2024 - Sep. 2024_)**
 - Fast non-linear PDE solver for photonic inverse design.
 - Advised by Kiyoul Yang.
 
