@@ -22,7 +22,7 @@
 
 ### Multi-Forecast Model Predictive Control of Home Energy Network
 - Simple forecasting of load and solar power generation from data.
-- Multi-forecast augmentation of model predictive control for management of home energy network.
+- Multi-forecast augmentation of model predictive control for home energy network.
 
 ## Additional
 **Stanford Society of Black Scientists and Engineers** 
