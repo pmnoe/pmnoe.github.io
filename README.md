@@ -2,9 +2,11 @@
 - M.S. Electrical Engineering, Stanford University (_exp. June 2026_)	 			        		
 - B.S. Electrical Engineering, Stanford University (_exp. April 2025_)
 
-##### Summarized descriptions. Contact me for details.
+
 
 ## Experience
+##### Summarized descriptions. Contact me for details.
+
 **Researcher @ Stanford University (_Sep. 2024 - Present_)**
 - Data-driven forecasting of fleet scale solar power generation.
 - Advised by Bennet Meyers and Stephen Boyd.
