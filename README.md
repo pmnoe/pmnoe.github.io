@@ -1,4 +1,4 @@
-###### Summarized descriptions. Contact me for details.
+##### Summarized descriptions. Contact me for details.
 
 ## Education		
 - M.S. Electrical Engineering, Stanford University (_exp. Jun. 2026_)	 			        		
