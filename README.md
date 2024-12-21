@@ -1,10 +1,10 @@
 #### Summarized descriptions. Contact me for details and/or resume.
 
-## Education		
+# Education		
 - M.S. Electrical Engineering, Stanford University (_exp. June 2026_)	 			        		
 - B.S. Electrical Engineering, Stanford University (_exp. April 2025_)
 
-## Experience
+# Experience
 **Undergraduate Researcher @ Stanford University (_Sep. 2024 - Present_)**
 - Data-driven forecasting of fleet scale solar power generation.
 - Advised by Bennet Meyers and Stephen Boyd.
@@ -17,16 +17,16 @@
 - Microwave photonics with quantum paraelectric materials. 
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
-## Projects
-### Optimal Shipping Schedules for Collaborating Blood Banks
+#  Projects
+#### Optimal Shipping Schedules for Collaborating Blood Banks
 - Data-driven forecasting of blood supply and demand at blood banks.
 - Determine shippments between blood banks via convex optimization.
 
-### Multi-Forecast Model Predictive Control of Home Energy Network
+#### Multi-Forecast Model Predictive Control of Home Energy Network
 - Simple forecasting of load and solar power generation from data.
-- Multi-forecast augmentation of MPC to manage home energy network.
+- Multi-forecast augmentation of MPC for home energy network.
 
-## Additional
+# Additional
 **Stanford Society of Black Scientists and Engineers** 
 - President (2024), Vice-President (2023), Corporate Chair (2022). 
 - Awards: Junior, Soph., and Frosh of The Year (2024, 2023, 2022).
