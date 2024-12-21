@@ -16,11 +16,11 @@
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
 ##  Projects
-#### Optimal Shipping Schedules for Collaborating Blood Banks
+**Optimal Shipping Schedules for Collaborating Blood Banks**
 - Data-driven forecasting of blood supply and demand at blood banks.
 - Determine shipments between blood banks via convex optimization.
 
-#### Multi-Forecast Model Predictive Control of Home Energy Network
+**Multi-Forecast Model Predictive Control of Home Energy Network**
 - Simple forecasting of load and solar power generation from data.
 - Multi-forecast augmentation of MPC for home energy network.
 
