@@ -1,4 +1,4 @@
-### Currently learning about: Optimization, Statistics, Control
+
 
 ## Education		
 - M.S. Electrical Engineering, Stanford University (_exp. Jun. 2026_)	 			        		
@@ -16,6 +16,8 @@
 **Researcher @ Stanford Univeristy (_Mar. 2022 - Sep. 2024_)**
 - Microwave photonics with quantum paraelectric materials. 
 - Advised by Jelena Vuckovic and Eric Rosenthal.
+
+### Currently exploring: optimization, statistics, control
 
 ##  Projects
 **Optimal Shipping Schedules for Collaborating Blood Banks**
