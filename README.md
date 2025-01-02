@@ -1,3 +1,5 @@
+### Currently learning about: Optimization, Statistics, Control
+
 ## Education		
 - M.S. Electrical Engineering, Stanford University (_exp. Jun. 2026_)	 			        		
 - B.S. Electrical Engineering, Stanford University (_exp. Apr. 2025_)
