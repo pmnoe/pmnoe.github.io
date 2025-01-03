@@ -17,8 +17,7 @@
 - Microwave photonics with quantum paraelectric materials. 
 - Advised by Jelena Vuckovic and Eric Rosenthal.
 
-##  Projects
-**Currently exploring: optimization, statistics, control**
+##  Projects: optimization, control, statistics
 
 **Optimal Shipping Schedules for Collaborating Blood Banks**
 - Data-driven forecasting of blood supply and demand at blood banks.
